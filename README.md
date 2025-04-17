@@ -3,4 +3,4 @@
  Uma página simples com um poema, contendo backgrounds convergindo com os textos.
  - objetivos: Testar meus conhecimentos básicos de estilização CSS e alguns conceitos de posicionamento de Backgrounds. 
 
- <a href="https://filipemartins-dev.github.io/projeto-cordel/">Entrar na página</a>
+ <a href="https://filipemartinsdev.github.io/projeto-cordel/">Entrar na página</a>
